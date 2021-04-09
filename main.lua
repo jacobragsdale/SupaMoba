@@ -1,4 +1,3 @@
---sam owes me a tab
 function love.load()
     -- load in utility modules
     font = Font:new()
